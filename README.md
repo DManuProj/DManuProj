@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Dhive Blog**
 
-- 🌱 I’m currently learning **Reactjs, Next, Nodejs, Springboot**
+- 🌱 I’m currently learning ** Nextjs, Nodejs, Springboot**
 
 - 💬 Ask me about **React, Nodejs**
 
